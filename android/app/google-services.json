@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637879766870",
+    "firebase_url": "https://crazyalarm-c770e.firebaseio.com",
+    "project_id": "crazyalarm-c770e",
+    "storage_bucket": "crazyalarm-c770e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637879766870:android:5312e4410a6a571f6a50f7",
+        "android_client_info": {
+          "package_name": "com.lab.crazyalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637879766870-on7kmnnbjlg506p8bh4p8jbbqfcrpbsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0rgsvCbXVmWAz5LTXApkmTa1B8q8A2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637879766870-on7kmnnbjlg506p8bh4p8jbbqfcrpbsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
