@@ -1,6 +1,6 @@
 # crazyalarm
 
-A new Flutter application for alarm.
+A Flutter application for crazy alarm. As a Crazy Alarm user I need to be able to get a alarm notification for a configured time, To cancel off the alarm I should be Answering math problem with multiple choice answer.
 
 ## Getting Started
 
